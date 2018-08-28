@@ -1,14 +1,14 @@
-title: Sé más que un blogger
-description:  Aprende a crear un blog.
+title: Unicorn cuteness
+description: This may be random and not usefull, but it´s entetaining...
 permalink: ':title/'
 baseurl: "/" 
-url: "https://canvas2017.github.io" 
+url: "https://butterbunny.github.io" 
 site-twitter: 
 
 
-author: Sé más que un blogger  
+author: Butter bunny
 author-img: logo-pie.png  
-about-author: El taller Malagabyte Summer para aprender a crear un blog con jekyll y una página web con HTML5 y CSS3.
+about-author: Here I´m going to post updates on my life, food ( I´m hungry(very hungry)), games ando other stuff(random stuff)
 social-twitter: 
 social-facebook: 
 social-github: 
