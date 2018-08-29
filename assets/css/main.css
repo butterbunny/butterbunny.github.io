@@ -1063,10 +1063,10 @@ table tfoot td {
 nav ul li a.active {
 	background: #ffd8fd;
 	
-}
+	}
 nav ul li a:hover {
 	background: #3281b2;
-	color: #ffffff;
+	
 }
 
 nav ul li a {
