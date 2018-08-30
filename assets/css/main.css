@@ -578,6 +578,7 @@ template {
 /* Keyword.Type */
 .highlight .m {
   color: #f60;
+	
 }
 
 /* Literal.Number */
@@ -1258,7 +1259,7 @@ a.newer-posts:hover {
   font-weight: 400;
   margin: 0 0 10px;
   line-height: 1.3;
-   color: #3281b2;
+   color: #491075;
   font-family: 'Allerta', sans-serif;
 }
 
