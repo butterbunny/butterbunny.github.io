@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My book opening
-date: 2o19-01-28
+date: 2019-28-01
 description: This is my first draft at the opening of my book called "Open your eyes"
 img: creepyeyes.png
 fig-caption: 
